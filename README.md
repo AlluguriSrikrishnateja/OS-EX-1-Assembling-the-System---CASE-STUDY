@@ -7,7 +7,7 @@ PROCEDURE:
 
 
 
-'''
+
 1.Open the case:The First Step In Assembling A Computer Is To Open The Computer Case. To Open The Case, First Remove The Screws Of The Left Side Cover And Slide The Side Cover.
 
 
@@ -105,4 +105,4 @@ PROCEDURE:
 
 RESULT:
 Hence ,the system is successfully set up.
-'''
+
